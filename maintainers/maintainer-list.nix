@@ -3974,6 +3974,12 @@
     githubId = 4102525;
     name = "Gabriel Gouvine";
   };
+  comfysage = {
+    email = "67917529+comfysage@users.noreply.github.com";
+    github = "comfysage";
+    githubId = 67917529;
+    name = "robin";
+  };
   commandodev = {
     email = "ben@perurbis.com";
     github = "commandodev";
